@@ -10,17 +10,18 @@ span{
 section{
 
     display: flex;
+    margin-bottom: 150px;
 }
 .firstdiv{
     padding-left: 5%;
     width: 50%;
 }
-.font-color{
+.first-para{
     color: gray;
     padding-bottom: 10px;
 }
 .firstdiv img{
-    width: 80%;
+    width: 50%;
     padding-right: 10%;
 }
 .link-button{
@@ -30,4 +31,18 @@ section{
     border-radius: 30px;
     color: white;
     font-weight: 700;
+}
+.second-div{
+    padding-top: 115px;
+    padding-bottom: 20px;
+    
+}
+.second-para{
+    padding-bottom: 20px;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 150px;
 }
